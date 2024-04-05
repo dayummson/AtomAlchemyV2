@@ -34,12 +34,13 @@ AtomAlchemy is a Python project utilizing the Tkinter library to create an intui
 
 To run the project, execute the following command:
 
-# Contribution
- You may fork the repo and make some changes and pull request, dont forget to star it too!
-
-
 
 ```bash
 python3 AtomAlchemy.py
 
 ```
+
+# Contribution
+ You may fork the repo and make some changes and pull request, dont forget to star it too!
+
+
