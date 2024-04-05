@@ -53,3 +53,7 @@ python AtomAlchemy.py
  You may fork the repo and make some changes and pull request, dont forget to star it too!
 
 
+ # Licence & Copyright
+ 2024 © Rodge Macalalag • All Rights Reserved
+
+
