@@ -27,11 +27,11 @@ AtomAlchemy is a Python project utilizing the Tkinter library to create an intui
 
         # ** if you encounter any issues when activating the venv on windows **
 
-        #Open PowerShell as Administrator: Right-click on the PowerShell icon and select "Run as Administrator" to open PowerShell with administrative privileges.
+        # Open PowerShell as Administrator: Right-click on the PowerShell icon and select "Run as Administrator" to open PowerShell with administrative privileges.
 
         # Set Execution Policy: In the PowerShell window, run the following command to set the execution policy to allow local scripts to run:
-            Set-ExecutionPolicy RemoteSigned
-        
+            ``` Set-ExecutionPolicy RemoteSigned ```
+            - enter Y
         ```
 
 4. **Install Dependencies**:
